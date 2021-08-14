@@ -1,7 +1,7 @@
 ---
 title: Tìngäzìk
 image: https://z3.ax1x.com/2021/08/14/f61rOH.jpg
-intro: (Probably Not) the World's Kindest Online Puzzle Game
+intro: 也许不是世界上最简单的网页解谜
 categories: 
   - 长期运营
 tags: 
