@@ -1,6 +1,6 @@
 ---
 title: Puzzle Love
-image: https://z3.ax1x.com/2021/08/14/f6sabq.jpg
+image: /image/8551191539be84987d82b3814ac1ec62.webp
 intro: 七夕快乐！
 categories: 
   - 正在进行
@@ -46,7 +46,7 @@ tags:
 <li>作者</li>
 <li>つつ</li>
 <li>https://tsutsu.cc/</li>
-<li>https://z3.ax1x.com/2021/08/14/f6rB1H.png</li>
+<li>/image/dfd04b68992602b80059e8a968413bc6.webp</li>
 <li>享受一个人的安稳，又期待两个人的热闹</li>
 
 </ul>

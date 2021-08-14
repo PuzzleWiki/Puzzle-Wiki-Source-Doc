@@ -1,6 +1,6 @@
 ---
 title: Tìngäzìk
-image: https://z3.ax1x.com/2021/08/14/f61rOH.jpg
+image: /image/566bb56c111b6dfa1b8a0eec953c74dd.webp
 intro: 也许不是世界上最简单的网页解谜
 categories: 
   - 长期运营
@@ -32,7 +32,7 @@ tags:
 <li>作者</li>
 <li>Eana Hufwe</li>
 <li>https://1a23.com/</li>
-<li>https://z3.ax1x.com/2021/08/14/f6NgKK.png</li>
+<li>/image/88563af0c50bc1c2ebe7d516669eae99.webp</li>
 <li>信じたものは、都合のいい妄想を繰り返し映し出す鏡。</li>
 
 </ul>
