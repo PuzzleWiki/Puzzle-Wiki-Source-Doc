@@ -2,6 +2,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
+**注意！本文件并非 [PuzzleWiki.github.io](https://github.com/PuzzleWiki/PuzzleWiki.github.io) 的 README 文件，若想对项目做贡献或是提出 issue 请前往 [Puzzle-Wiki-Source-Doc](https://github.com/PuzzleWiki/Puzzle-Wiki-Source-Doc)！**
+
 ## Wiki 构成
 
 |名称|解释与要求|
@@ -75,6 +77,6 @@ Puzzle 策划团队的成员信息
 </ul>
 ```
 
-文档中所用的图像文件请以 webp 格式上传至 `/image` 文件夹，并以图像文件的 MD5 值命名，在文档中直接以 `/image/<文件名>` 的方式引用即可。
+文档中除使用外链的头像外的图像文件请以 webp 格式上传至 `/image` 文件夹，并以图像文件的 MD5 值命名，在文档中直接以 `/image/<文件名>` 的方式引用即可。
 
 填写完毕后，直接向 `main` 分支发起 Pull Request 即可完成贡献。
