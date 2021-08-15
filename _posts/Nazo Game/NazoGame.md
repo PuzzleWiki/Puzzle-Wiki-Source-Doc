@@ -16,15 +16,9 @@ Nazo Game
 
 ### 游玩方式
 
-直接访问 nazo.one-story.cn 开始解谜！
-
-### 相关链接
-
-nazo.one-story.cn
+- [http://nazo.one-story.cn/](http://nazo.one-story.cn/)
 
 ### 策划团队
-
-Nazo Game 策划团队的成员信息
 
 <ul class = "author">
 
