@@ -8,7 +8,7 @@ tags:
   - Misc
 ---
 
-#### 介绍
+### 介绍
 
 大航海的历史和我们已有五百年的距离，后世众多文学作品提及大航海时代，总会和海盗与宝藏联系在一起。
 
@@ -20,18 +20,18 @@ tags:
 
 ---
 
-#### 游玩方式
+### 游玩方式
 
 本季活动共有四小节，每小节的题目可在 [LimboWiki](https://wiki.pigeon-games.com/) 的 [十七的宝藏](https://wiki.pigeon-games.com/index.php?title=%E5%8D%81%E4%B8%83%E7%9A%84%E5%AE%9D%E8%97%8F) 词条中找到。
 
-#### 相关链接
+### 相关链接
 
 - Puzzle #1 谜题解密及补充：[https://www.bilibili.com/read/cv5049639](https://www.bilibili.com/read/cv5049639)
 - Puzzle #1.1 谜题解密及补充：[https://www.bilibili.com/read/cv5097020](https://www.bilibili.com/read/cv5097020)
 - Puzzle #1.2 谜题解密及补充：[https://www.bilibili.com/read/cv5142660](https://www.bilibili.com/read/cv5142660)
 - Puzzle #1.3 谜题解密及补充：[https://www.bilibili.com/read/cv5188890](https://www.bilibili.com/read/cv5188890)
 
-#### 策划团队
+### 策划团队
 
 
 <ul class = "author">

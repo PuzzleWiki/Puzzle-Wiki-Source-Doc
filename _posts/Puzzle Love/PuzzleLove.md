@@ -8,7 +8,7 @@ tags:
   - Tech
 ---
 
-#### 介绍
+### 介绍
 
 于 2021/8/14 19:00 开始！持续七天整！
 
@@ -30,15 +30,15 @@ tags:
 
 ---
 
-#### 游玩方式
+### 游玩方式
 
 - [https://puzzle-love.tsutsu.top](https://puzzle-love.tsutsu.top)
 
-#### 相关链接
+### 相关链接
 
 - 公告及补充说明：[https://t.me/tsutsuchannel](https://t.me/tsutsuchannel)
 
-#### 策划团队
+### 策划团队
 
 
 <ul class = "author">

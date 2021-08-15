@@ -8,7 +8,7 @@ tags:
   - Misc
 ---
 
-#### 介绍
+### 介绍
 
 收集时间 2/03/20  
 保管单位：鸠  
@@ -19,7 +19,7 @@ tags:
 你，愿意接受挑战吗？
 ---
 
-#### 游玩方式
+### 游玩方式
 
 可下载音乐游戏 Phigros，在其内寻找开始解谜的线索：
 - [https://www.taptap.com/app/165287](https://www.taptap.com/app/165287)
@@ -27,11 +27,11 @@ tags:
 也可以直接访问出题组的 B 站专栏直接开始解谜：
 - [https://www.bilibili.com/read/cv5190024](https://www.bilibili.com/read/cv5190024)
 
-#### 相关链接
+### 相关链接
 
 - 官方复盘及解答：[https://www.bilibili.com/read/cv5295229](https://www.bilibili.com/read/cv5295229)
 
-#### 策划团队
+### 策划团队
 
 
 <ul class = "author">

@@ -9,22 +9,22 @@ tags:
 ---
 
 
-#### 介绍
+### 介绍
 
 没有机关，没有故事，所有问题均可独立解答。问题难度不一定逐题提高。我也不知道你都需要会什么才能通关。¯\\\_(ツ)_/¯
 
 ---
 
-#### 游玩方式
+### 游玩方式
 
 - [https://tingazik.1a23.studio/](https://tingazik.1a23.studio/)
 
-#### 相关链接
+### 相关链接
 
 - 论坛：[https://github.com/tingazik/discussions/discussions](https://github.com/tingazik/discussions/discussions)
 - 电邮：[tingazik@1a23.studio](mailto:tingazik@1a23.studio)
 
-#### 策划团队
+### 策划团队
 
 
 <ul class = "author">
