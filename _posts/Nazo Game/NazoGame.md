@@ -23,6 +23,7 @@ tags:
 ---
 
 ### 游玩方式
+
 直接访问网站开始解谜：
 - [http://nazo.one-story.cn/](http://nazo.one-story.cn/)
 
