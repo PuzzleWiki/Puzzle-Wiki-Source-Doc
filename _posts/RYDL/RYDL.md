@@ -3,22 +3,22 @@ title: RYDL
 image: /image/13a65e4f7c73e3ed5b69284d9592c1b9.webp
 intro: A Puzzle Game by COL
 categories: 
-  - 正在进行
+  - 长期运营
 tags:
   - Crypto
 ---
 
 ### 介绍
 
-由COL制作的古典向解谜作品，曾经作为对网页谜题Tìngäzìk的回馈与感谢。
-<br>
+由 COL 制作的古典向解谜作品，曾经作为对网页谜题 Tìngäzìk 的回馈与感谢。
+
 祝你玩得愉快！
 
 ---
 
 ### 游玩方式
 
-https://tenrim.com/rydl/
+- [https://tenrim.com/rydl/](https://tenrim.com/rydl/)
 
 ### 策划团队
 
