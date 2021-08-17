@@ -16,13 +16,12 @@ tags:
 
 ### 游玩方式
 
-- 序章入口：https://www.zhen-t.com/blog/archives/249/
+- 序章入口：[https://www.zhen-t.com/blog/archives/249/](https://www.zhen-t.com/blog/archives/249/)
 
 ### 相关链接
 
-- 博客：https://www.zhen-t.com/blog/category/life_puzzle/
-
-- tg 频道：https://t.me/LIFE_PUZZLE_INFO
+- 博客：[https://www.zhen-t.com/blog/category/life_puzzle/](https://www.zhen-t.com/blog/category/life_puzzle/)
+- tg 频道：[https://t.me/LIFE_PUZZLE_INFO](https://t.me/LIFE_PUZZLE_INFO)
 
 ### 策划团队
 
