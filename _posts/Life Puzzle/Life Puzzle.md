@@ -22,7 +22,7 @@ tags:
 
 - 博客：https://www.zhen-t.com/blog/category/life_puzzle/
 
-- tg 频道：https://t.me/LIFE_PUZZLE_CHANNEL
+- tg 频道：https://t.me/LIFE_PUZZLE_INFO
 
 ### 策划团队
 
