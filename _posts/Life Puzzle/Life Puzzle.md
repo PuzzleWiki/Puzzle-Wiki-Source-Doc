@@ -22,6 +22,7 @@ tags:
 
 - 博客：[https://www.zhen-t.com/blog/category/life_puzzle/](https://www.zhen-t.com/blog/category/life_puzzle/)
 - tg 频道：[https://t.me/LIFE_PUZZLE_INFO](https://t.me/LIFE_PUZZLE_INFO)
+- 微信公众号：[http://weixin.qq.com/r/WBNOVp-E8sKNrds190ZK](http://weixin.qq.com/r/WBNOVp-E8sKNrds190ZK)
 
 ### 策划团队
 
